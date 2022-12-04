@@ -1,0 +1,15 @@
+D:\adventofcode2022\day3\bin\Debug\net6.0\day3.exe
+D:\adventofcode2022\day3\bin\Debug\net6.0\day3.deps.json
+D:\adventofcode2022\day3\bin\Debug\net6.0\day3.runtimeconfig.json
+D:\adventofcode2022\day3\bin\Debug\net6.0\day3.dll
+D:\adventofcode2022\day3\bin\Debug\net6.0\day3.pdb
+D:\adventofcode2022\day3\obj\Debug\net6.0\day3.csproj.AssemblyReference.cache
+D:\adventofcode2022\day3\obj\Debug\net6.0\day3.GeneratedMSBuildEditorConfig.editorconfig
+D:\adventofcode2022\day3\obj\Debug\net6.0\day3.AssemblyInfoInputs.cache
+D:\adventofcode2022\day3\obj\Debug\net6.0\day3.AssemblyInfo.cs
+D:\adventofcode2022\day3\obj\Debug\net6.0\day3.csproj.CoreCompileInputs.cache
+D:\adventofcode2022\day3\obj\Debug\net6.0\day3.dll
+D:\adventofcode2022\day3\obj\Debug\net6.0\refint\day3.dll
+D:\adventofcode2022\day3\obj\Debug\net6.0\day3.pdb
+D:\adventofcode2022\day3\obj\Debug\net6.0\day3.genruntimeconfig.cache
+D:\adventofcode2022\day3\obj\Debug\net6.0\ref\day3.dll
